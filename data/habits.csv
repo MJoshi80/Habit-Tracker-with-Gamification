@@ -1,0 +1,4 @@
+id,name,category,frequency,createdOn,active
+1,Daily Java Coding,CODING,DAILY,2026-09-18,true
+2,Morning Workout,FITNESS,DAILY,2026-09-18,true
+3,Read Technical Book,READING,WEEKLY,2026-09-18,true

@@ -1,0 +1,5 @@
+habitId,date,completed,xpEarned
+1,2026-02-01,true,10
+1,2026-02-02,true,12
+1,2026-02-03,true,14
+1,2026-02-04,false,0
